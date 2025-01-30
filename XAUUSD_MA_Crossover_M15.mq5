@@ -7,10 +7,10 @@
 // Input variabel
 input int MA_Fast = 35;
 input int MA_Slow = 82;
-input int SL_Pips = 50;   // Stop Loss dalam pips
-input int TP_Pips = 100;  // Take Profit dalam pips
+input int SL_Pips = 300;   // Stop Loss dalam pips
+input int TP_Pips = 600;  // Take Profit dalam pips
 input int Entry_Distance = 200; // Jarak pip setelah persilangan
-input double Lot_Size = 0.1;
+input double Lot_Size = 0.1;  // Untuk saldo $1000 namun jika saldo $100 make Lot_Size = 0.01
 
 // Fungsi mendapatkan harga MA
 double GetMA(int period, int shift) {
