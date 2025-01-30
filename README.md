@@ -1,4 +1,4 @@
-# ea_robot_trading
+# Robot Trading Otomatis XAUUSD 
 Berikut adalah **robot trading otomatis** untuk **XAU/USD (Gold)** yang berjalan di **MetaTrader 4 (MT4) dan MetaTrader 5 (MT5)** pada **timeframe M15**.  
 
 ---
