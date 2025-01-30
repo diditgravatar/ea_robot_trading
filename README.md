@@ -27,8 +27,7 @@ Buat file dengan ekstensi **`.mq4`**, misalnya **`XAUUSD_MA_Crossover_M15.mq4`**
 ```mql4
 //+------------------------------------------------------------------+
 //| Expert Advisor: XAUUSD MA Crossover (M15)                       |
-// | Author Didit Farafat
-    |
+// | Author Didit Farafat|
 //+------------------------------------------------------------------+
 #property strict
 
@@ -95,8 +94,7 @@ Buat file dengan ekstensi **`.mq5`**, misalnya **`XAUUSD_MA_Crossover_M15.mq5`**
 ```mql5
 //+------------------------------------------------------------------+
 //| Expert Advisor: XAUUSD MA Crossover (M15)                       |
-//| Author Didit Farafat
-   |
+//| Author Didit Farafat |
 //+------------------------------------------------------------------+
 #property strict
 
