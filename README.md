@@ -186,5 +186,10 @@ void OnTick() {
 ✔️ **Hanya satu order aktif dalam satu waktu.**  
 ✔️ **Dilengkapi Stop Loss (SL) dan Take Profit (TP).**  
 
-Silakan coba dalam akun demo, setelah robot trading ini 80% profit maka bisa digunakan dalam akun live.
-## ** By Didit Gravatar**
+## ** Di Sarankan:**
+
+✔️ **Rekomendasi Stop Loss (300pip) dan Take Profit (600pip).**  
+
+Silahkan dicoba dalam akun demo, setelah robot trading ini bekerja lebih dominan profit baru anda jalankan di akun live.
+Untuk pengunaan yang di sarankan robot berjalan 24/7 menggunakan vps.
+Silahkan uji coba dalam 1 bulan.
