@@ -186,7 +186,7 @@ void OnTick() {
 ✔️ **Hanya satu order aktif dalam satu waktu.**  
 ✔️ **Dilengkapi Stop Loss (SL) dan Take Profit (TP).**  
 
-## ** Di Sarankan:**
+## **Di Sarankan:**
 
 ✔️ **Rekomendasi Stop Loss (300pip) dan Take Profit (600pip).**  
 
