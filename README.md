@@ -187,3 +187,4 @@ void OnTick() {
 ✔️ **Dilengkapi Stop Loss (SL) dan Take Profit (TP).**  
 
 Silakan coba dalam akun demo, setelah robot trading ini 80% profit maka bisa digunakan dalam akun live.
+## ** By Didit Gravatar**
